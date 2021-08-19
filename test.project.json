@@ -1,0 +1,14 @@
+{
+    "name": "Kind",
+    "tree": {
+        "$className": "DataModel",
+        "$ignoreUnknownInstances": true,
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "Kind": {
+                "$path": "src/"
+            },
+            "$ignoreUnknownInstances": true
+        }
+    }
+}
